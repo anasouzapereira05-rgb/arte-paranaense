@@ -1,1 +1,16 @@
+body{
+    background-color :rgb(154, 128, 179);
+    color : rgb(234, 177, 236);
+}
+header{
+    background_color :#BF728C;
+    color : #8A0E3A;
 
+}
+main{
+    background-color:rgb(168, 247, 247);
+
+}
+footer{
+    background-color:rgb(116, 241, 241);
+}
