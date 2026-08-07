@@ -7,10 +7,26 @@ header{
     color : #8A0E3A;
 
 }
-main{
-    background-color:rgb(168, 247, 247);
+main {
+    width: 80%;
+    margin: auto;
+}
+section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius:12px;
+}
+img{
+    width:100%;
+    max-width:600xx;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
 
 }
-footer{
-    background-color:rgb(116, 241, 241);
+figcaption{ text-align: center;
+    font-size: 14px;
+    color: #555
+    marrgin-top: 8px;
 }
