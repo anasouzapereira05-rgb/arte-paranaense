@@ -1,11 +1,14 @@
 body{
     background-color :rgb(154, 128, 179);
     color : rgb(234, 177, 236);
+    font-family: Arial,  sans-serif;
     margin:0;
 }
 header{
     background-color:#BF728C;
     color : #8A0E3A;
+    text-align: center;
+    padding: 30px;
 
 }
 h1{
@@ -19,7 +22,7 @@ p{
     line-height:1.6;
 }
 nav{
-    margin-top:20px;
+    margin-top: 20px;
 }
 
 nav a {
@@ -53,7 +56,8 @@ img{
     border-radius: 12px;
 
 }
-figcaption{ text-align: center;
+figcaption{
+    text-align: center;
     font-size: 14px;
     color: #555555;
     margin-top:8px;
@@ -66,7 +70,7 @@ figcaption{ text-align: center;
     border-radius:10px;
 }
 .card h3 {
-    margin-top:0;
+    margin-top: 0;
 }
 footer {
     background-color:aliceblue;
