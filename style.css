@@ -1,6 +1,6 @@
 body{
-    background-color :rgb(241, 238, 243);
-    color : rgb(69, 73, 73);
+    background-color :rgb(252, 162, 247);
+    color : rgb(39, 38, 39);
     font-family: Arial,  sans-serif;
     margin:0;
 }
@@ -63,7 +63,7 @@ figcaption{
     margin-top:8px;
 }
 .card{
-    background-color:black;
+    background-color:rgb(78, 74, 74);
     padding:15px;
     margin:15px 0;
     border-left:6px solid #555;
