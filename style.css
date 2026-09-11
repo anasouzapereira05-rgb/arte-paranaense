@@ -1,5 +1,5 @@
 body{
-    background-color :rgb(252, 162, 247);
+    background-color :rgb(255, 235, 254);
     color : rgb(39, 38, 39);
     font-family: Arial,  sans-serif;
     margin:0;
@@ -63,10 +63,10 @@ figcaption{
     margin-top:8px;
 }
 .card{
-    background-color:rgb(78, 74, 74);
+    background-color:rgb(255, 175, 224);
     padding:15px;
     margin:15px 0;
-    border-left:6px solid #555;
+    border-left:6px solid #ebdddd;
     border-radius:10px;
 }
 .card h3 {
