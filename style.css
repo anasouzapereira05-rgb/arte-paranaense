@@ -18,6 +18,7 @@ h2{
     color:#e0bcd7;
 }
 p{
+
     font-size:18px;
     line-height:1.6;
 }
@@ -68,6 +69,7 @@ figcaption{
     margin:15px 0;
     border-left:6px solid #ebdddd;
     border-radius:10px;
+
 }
 .card h3 {
     margin-top: 0;
