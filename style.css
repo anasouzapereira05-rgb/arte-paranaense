@@ -12,14 +12,14 @@
 }
 
 body{
-    background-color :rgb(255, 235, 254);
-    color : rgb(39, 38, 39);
+    background-color :var(--cor-fundo);
+    color : var(--cor-texto);
     font-family: Arial,  sans-serif;
     margin:0;
 }
 header{
-    background-color:#a76c80;
-    color : #d8b0be;
+    background-color:var(--cor-principal);
+    color :var(--cor-clara);
     text-align: center;
     padding: 30px;
 
@@ -28,7 +28,7 @@ h1{
     font-size:36px;
 }
 h2{
-    color:#e0bcd7;
+    color:var(--cor-principal);
 }
 p{
 
