@@ -57,7 +57,7 @@ main {
     margin: auto;
 }
 section {
-    background-color: white;
+    background-color:var(--cor-superficie);
     margin: 20px 0;
     padding: 20px;
     border-radius:12px;
@@ -73,11 +73,11 @@ img{
 figcaption{
     text-align: center;
     font-size: 14px;
-    color: #555555;
+    color: var(--cor-legenda);
     margin-top:8px;
 }
 .card{
-    background-color:rgb(255, 175, 224);
+    background-color:var(--cor-card);
     padding:15px;
     margin:15px 0;
     border-left:6px solid #ebdddd;
@@ -88,22 +88,22 @@ figcaption{
     margin-top: 0;
 }
 footer {
-    background-color:rgb(19, 20, 20);
-    color:white;
+    background-color:var(--cor-rodape);
+    color:var(--cor-clara);
     text-align:center;
     padding:20px;
     margin-top:30px;
 }
 button {
-    background-color: #555555;
-    color:white;
+    background-color:var(--cor-principal);
+    color:var(--cor-clara);
     border:none;
     padding: 10x 15px;
     border-radius: 8px;
     cursor: pointer;
 }
 button:hover{
-    background-color:#6b4d83;
+    background-color:var(--cor-hover);
 }
 .curtir{
     display:block;
