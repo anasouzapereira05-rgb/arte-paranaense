@@ -1,3 +1,16 @@
+:root{
+    --cor-fundo:#f3c3f5;
+    --cor-texto:#222222;
+    --cor-principal:#eca3da;
+    --cor-secundaria: #f3cce7;
+    --cor-hover: #fcf4f9;
+    --cor-superficie: #fcf4f9;
+    --cor-card: #ff8bd3;
+    --cor-legenda: #222122;
+    --cor-clara: #ddd6dd;
+    --cor-rodape:#181818;
+}
+
 body{
     background-color :rgb(255, 235, 254);
     color : rgb(39, 38, 39);
