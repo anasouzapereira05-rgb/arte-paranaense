@@ -40,9 +40,9 @@ nav{
 }
 
 nav a {
-    color:white;
+    color:var(--cor-clara);
     text-decoration:none;
-    background-color:rgb(235, 221, 223);
+    background-color:var(--cor-secundaria);
     padding:10px 15px;
     border-radius:8px;
     margin:5px;
@@ -50,7 +50,7 @@ nav a {
 
 }
 nav a:hover{
-    background-color:white;
+    background-color:var(--cor-hover);
 }
 main {
     width: 80%;
